@@ -4,7 +4,7 @@
 
 **Term:** Fall 2023: Indiana University
 
-**Project Repository:** [IU GitHub](https://github.iu.edu/)
+**Project Repository:** [GitHub IUB](https://github.iu.edu/)
 
 <br>
 
